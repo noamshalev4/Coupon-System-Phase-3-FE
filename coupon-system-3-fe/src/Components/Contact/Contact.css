@@ -1,0 +1,16 @@
+.Contact {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.Contact .MuiTypography-h3 {
+    color: #3f51b5;
+}
+
+.Contact .MuiTypography-h6 {
+    color: #757575;
+}
+
+.Contact .MuiTypography-body1 {
+    color: #616161;
+}

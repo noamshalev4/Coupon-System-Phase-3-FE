@@ -1,0 +1,16 @@
+.About {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.About .MuiTypography-h3 {
+    color: #3f51b5;
+}
+
+.About .MuiTypography-h6 {
+    color: #757575;
+}
+
+.About .MuiTypography-body1 {
+    color: #616161;
+}

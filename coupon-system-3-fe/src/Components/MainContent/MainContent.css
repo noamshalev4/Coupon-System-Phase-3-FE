@@ -1,0 +1,7 @@
+.MainContent {
+    flex-grow: 6;
+    padding: 20px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+}

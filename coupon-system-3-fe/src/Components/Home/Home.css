@@ -1,0 +1,16 @@
+.Home {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.Home .MuiTypography-h3 {
+    color: #3f51b5;
+}
+
+.Home .MuiTypography-h6 {
+    color: #757575;
+}
+
+.Home .MuiTypography-body1 {
+    color: #616161;
+}
